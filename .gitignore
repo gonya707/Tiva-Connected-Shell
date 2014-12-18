@@ -41,3 +41,21 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+*.pp
+*.obj
+*.opt
+*.mk
+Debug/TIVA_USART_linkInfo.xml
+Debug/TIVA_USART.out
+Debug/TIVA_USART.map
+Debug/TIVA_UART_linkInfo.xml
+Debug/TIVA_UART.out
+Debug/TIVA_UART.map
+Debug/TIVA_linkInfo.xml
+Debug/TIVA_HelloWorld_linkInfo.xml
+Debug/TIVA_HelloWorld.out
+Debug/TIVA_HelloWorld.map
+Debug/TIVA.map
+Debug/makefile
+*.prefs
